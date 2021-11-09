@@ -1,9 +1,9 @@
-![CoolImGIF](https://user-images.githubusercontent.com/77049684/140963580-fb01f9d7-ec6b-42fb-b39e-4d055c1b1147.gif)
 
-### Congrats! You have found the best Web Developer online 😋 JK JK
-But seriously, I am realy good. 😎 
 
-I love React!
+### Hey There! 
+ 
+
+I am a passioante full stack web developer witha great eye for design.
 
 
 🔭 I’m currently working on a news aggregation that beats Google News. Still in progress. 
