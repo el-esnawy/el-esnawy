@@ -9,11 +9,9 @@ I am a passioante full stack web developer witha great eye for design.
 🔭 I’m currently working on a news aggregation that beats Google News. Still in progress. 
  I am also doing some other stuff that I will share here soon enough.
  
-🌱 I’m currently learning React Native, Django nd Framer Motion 
+🌱 I’m currently learning advanced Nodejs & AWS
 
 👯 I’m looking to collaborate on with any person on their personal or professional project
-
-🤔 I’m looking for help with getting a job at Facebook...oops..sorry Meta.
 
 📫 Feel Free to reach me at: mr.mesnawy@gmail.com
  
