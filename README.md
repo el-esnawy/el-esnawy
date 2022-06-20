@@ -3,7 +3,7 @@
 ### Hey There! 
  
 
-I am a passioante full stack web developer witha great eye for design.
+A Full stack developer who loves a challenge.
 
 
 🔭 I’m currently working on a news aggregation that beats Google News. Still in progress. 
