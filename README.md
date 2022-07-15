@@ -15,8 +15,6 @@ A Full stack developer who loves a challenge.
 
 📫 Feel Free to reach me at: mr.mesnawy@gmail.com
  
-😄 Pronouns: Dude-Duder-El-Duderino-His-Dudeness and also he/him works fine
- 
 ⚡ Fun fact: I get really used to people quickly.
 
 <!--
