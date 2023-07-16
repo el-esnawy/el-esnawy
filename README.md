@@ -2,14 +2,11 @@
 
 ### Hey There! 
  
-
 A Full stack developer who loves a challenge.
-
-
-🔭 I’m currently working on a news aggregation that beats Google News. Still in progress. 
+ 
  I am also doing some other stuff that I will share here soon enough.
  
-🌱 I’m currently learning advanced Nodejs & AWS
+🌱 I’m currently learning Java
 
 👯 I’m looking to collaborate on with any person on their personal or professional project
 
