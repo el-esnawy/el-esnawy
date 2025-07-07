@@ -6,8 +6,6 @@ A Full stack developer who loves a challenge.
  
  I am also doing some other stuff that I will share here soon enough.
  
-🌱 I’m currently learning Java
-
 👯 I’m looking to collaborate on with any person on their personal or professional project
 
 📫 Feel Free to reach me at: mr.mesnawy@gmail.com
